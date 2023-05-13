@@ -4,15 +4,15 @@ export default function footer() {
             <div className="p-5 bg-emerald-900 text-black">
             <ul className="flex justify-center space-x-10">
                 <a href="https://github.com/alexbrenes999">
-                    <img className="w-14 h-14" />
+                    {/* <img className="w-14 h-14" /> */}
                     <li className="text-center">GitHub</li>
                 </a>
                 <a href="https://www.linkedin.com/in/alexander-brenes-pimentel-59979622a/">
-                    <img className="w-14 h-14" />
+                    {/* <img className="w-14 h-14" /> */}
                     <li className="text-center">LinkedIn</li>
                 </a>
                 <a href="mailto:alexbrenes2002@gmail.com">
-                    <img className="w-14 h-14" />
+                    {/* <img className="w-14 h-14" /> */}
                     <li className="text-center">Email</li>
                 </a>
             </ul>

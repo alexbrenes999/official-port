@@ -12,7 +12,7 @@ export default function Home() {
 
             <div className="">
                 <h1 className="flex justify-center text-7xl">ALEX BRENES</h1>
-                <img className="block ml-auto mr-auto" />
+                {/* <img className="block ml-auto mr-auto" /> */}
                 <p className="flex justify-center text-5xl font-bold pb-12">THE SPIEL OF A FULL STACK WEB DEVELOPER</p>
             </div>
 
@@ -26,7 +26,7 @@ export default function Home() {
 
             <div className="pt-8">
                 <div className="text-4xl">
-                    <p className="flex justify-center">For the last 6 months I've been making</p>
+                    <p className="flex justify-center">For the last 6 months I have been making</p>
                     <p className="flex justify-center">my journey to becoming a Full-Stack Web</p>
                     <p className="flex justify-center">Developer by challenging myself to learn</p>
                     <p className="flex justify-center">multiple high-level languages and skills</p>
